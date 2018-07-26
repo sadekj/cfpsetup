@@ -5,7 +5,7 @@ Steps:
 2. Open Terminal
 3. change directory to the location where the repo downloaded and execute the following commands:
 ```
-    cd cfsetup
+    cd cfpsetup
     chmod +x ./install.sh
     ./install
 ```
